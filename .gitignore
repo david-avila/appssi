@@ -14,7 +14,9 @@
 .classpath
 .c9/
 *.launch
-.settings/
+.settings
+.gitignore/
+/package-lock.json
 *.sublime-workspace
 
 # IDE - VSCode
