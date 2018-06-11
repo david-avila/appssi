@@ -16,7 +16,7 @@
 *.launch
 .settings
 .gitignore/
-/package-lock.json
+package-lock.json
 *.sublime-workspace
 
 # IDE - VSCode
